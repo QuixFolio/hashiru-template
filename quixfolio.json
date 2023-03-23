@@ -4,18 +4,13 @@
     "description": "This is a Hashiru template",
     "image": "image.png",
     "schema": {
-        "cloneName": {
-            "type": "string",
-            "page": "index.html",
-            "default": "hashiru-template"
-        },
         "name": {
             "type": "string",
             "page": "index.html",
             "default": ""
         },
         "summary": {
-            "type": "string",
+            "type": "textarea",
             "page": "index.html",
             "default": ""
         },
@@ -49,7 +44,7 @@
                     "default": 0
                 },
                 "courseWork": {
-                    "type": "string",
+                    "type": "textarea",
                     "default": ""
                 }
             }
@@ -63,7 +58,7 @@
                     "default": ""
                 },
                 "projectDetails": {
-                    "type": "string",
+                    "type": "textarea",
                     "default": ""
                 },
                 "codeLink": {
