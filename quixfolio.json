@@ -2,7 +2,7 @@
     "id": "hashiru-template",
     "name": "Hashiru Template",
     "description": "This is a Hashiru template",
-    "image": "",
+    "image": "image.png",
     "schema": {
         "cloneName": {
             "type": "string",
