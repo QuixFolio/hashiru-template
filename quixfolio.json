@@ -48,11 +48,7 @@
                     "type": "integer",
                     "default": 0
                 },
-                "addInfo": {
-                    "type": "string",
-                    "default": ""
-                },
-                "releventCoursework": {
+                "courseWork": {
                     "type": "string",
                     "default": ""
                 }
